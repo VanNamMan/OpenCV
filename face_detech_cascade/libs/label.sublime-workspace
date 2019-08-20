@@ -1,0 +1,900 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"QPim",
+				"QPixmap\tclass"
+			],
+			[
+				"but_",
+				"but_stop\tstatement"
+			],
+			[
+				"but",
+				"but_start\tstatement"
+			],
+			[
+				"sT",
+				"stopAllThread\tfunction"
+			],
+			[
+				"Sy",
+				"SystemError\tclass"
+			],
+			[
+				"lb",
+				"ln_webcam\tstatement"
+			],
+			[
+				"ra",
+				"rad_webcam\tstatement"
+			],
+			[
+				"ch",
+				"ch_basler\tstatement"
+			],
+			[
+				"camer",
+				"cameraDlg\tstatement"
+			],
+			[
+				"ca",
+				"cameraDlg\tstatement"
+			],
+			[
+				"file",
+				"filepath\tstatement"
+			],
+			[
+				"b",
+				"bLoopImplement\tstatement"
+			],
+			[
+				"QFo",
+				"QFont\tclass"
+			],
+			[
+				"fo",
+				"fontText\tstatement"
+			],
+			[
+				"sel",
+				"selected\tparam"
+			],
+			[
+				"thre",
+				"threading\tmodule"
+			],
+			[
+				"Qfo",
+				"QFont\tclass"
+			],
+			[
+				"fil",
+				"filePath\tstatement"
+			],
+			[
+				"fi",
+				"filePath\tstatement"
+			],
+			[
+				"ope",
+				"openNextImg\tfunction"
+			],
+			[
+				"cur",
+				"currIndex\tstatement"
+			],
+			[
+				"next",
+				"nextImage\tstatement"
+			],
+			[
+				"MA",
+				"Master"
+			],
+			[
+				"re",
+				"rect\tstatement"
+			],
+			[
+				"ln",
+				"ln_kThresh\tstatement"
+			],
+			[
+				"par",
+				"paramsCvWidget\tstatement"
+			],
+			[
+				"Ali",
+				"AlignLeft\tinstance"
+			],
+			[
+				"draw",
+				"drawingTextColor\tstatement"
+			],
+			[
+				"point",
+				"pointText\tstatement"
+			],
+			[
+				"po",
+				"pointText\tstatement"
+			],
+			[
+				"de",
+				"deleteSelected\tfunction"
+			],
+			[
+				"c",
+				"canvas\tstatement"
+			],
+			[
+				"open",
+				"openDir"
+			],
+			[
+				"line",
+				"lineColor"
+			],
+			[
+				"QIM",
+				"QImage\tclass"
+			],
+			[
+				"cv",
+				"cvImg\tparam"
+			],
+			[
+				"get",
+				"getBarcode\tfunction"
+			],
+			[
+				"ex",
+				"except\tkeyword"
+			],
+			[
+				"is",
+				"isfile\tfunction"
+			],
+			[
+				"save",
+				"saveImage\tfunction"
+			],
+			[
+				"rad",
+				"readline\tfunction"
+			],
+			[
+				"el",
+				"elif\tkeyword"
+			],
+			[
+				"QFi",
+				"QFileDialog\tclass"
+			],
+			[
+				"f",
+				"filePath\tstatement"
+			],
+			[
+				"FOR",
+				"Format_RGB32\tinstance"
+			],
+			[
+				"QI",
+				"QImage\tclass"
+			],
+			[
+				"for",
+				"formatShape\tfunction"
+			],
+			[
+				"ac",
+				"actions\tstatement"
+			],
+			[
+				"fit",
+				"fitWindow\tstatement"
+			],
+			[
+				"zoo",
+				"zoomOut\tstatement"
+			],
+			[
+				"zo",
+				"zoomIn\tstatement"
+			],
+			[
+				"lis",
+				"listLayout\tstatement"
+			],
+			[
+				"sele",
+				"selectedShape\tstatement"
+			],
+			[
+				"acti",
+				"actionMenuFile\tstatement"
+			],
+			[
+				"dele",
+				"deleteShapeSelected\tstatement"
+			],
+			[
+				"zoom",
+				"zoomOrg\tstatement"
+			],
+			[
+				"For",
+				"Format_RGBA8888\tinstance"
+			],
+			[
+				"cre",
+				"createRect\tstatement"
+			],
+			[
+				"para",
+				"paramsContainer\tstatement"
+			],
+			[
+				"QDia",
+				"QDialog\tclass"
+			],
+			[
+				"pa",
+				"paramsCvWidget\tstatement"
+			],
+			[
+				"QW",
+				"QWidget\tclass"
+			],
+			[
+				"QA",
+				"QApplication\tclass"
+			],
+			[
+				"labe",
+				"labelList\tstatement"
+			],
+			[
+				"res",
+				"resetState"
+			],
+			[
+				"ins",
+				"insertLabel"
+			],
+			[
+				"add",
+				"addLabel"
+			],
+			[
+				"Cre",
+				"createRect"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"setE",
+				"setEditing"
+			],
+			[
+				"setC",
+				"setCreateMode"
+			],
+			[
+				"on",
+				"on_closing"
+			],
+			[
+				"trig",
+				"trigger"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"thread",
+				"threading"
+			],
+			[
+				"rec",
+				"rect_active"
+			],
+			[
+				"id",
+				"idRect"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"s",
+				"showImage"
+			],
+			[
+				"winfo",
+				"winfo_width"
+			],
+			[
+				"my",
+				"myDlgPara"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"Qt",
+				"QtGui"
+			],
+			[
+				"tess",
+				"tessdata_dir_config"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"img",
+				"img_gray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"https://packagecontrol.io/installation"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/GitHub/PyQt_Form/labelImg-master/labelImg.py",
+		"/D/GitHub/PyQt_Form/LabelImg/test_labelImg.py",
+		"/D/_projet_camera/helloworld.py",
+		"/D/GitHub/PyQt_Form/LabelImg/UI_Convert/cameraDlg.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/cvLib.py",
+		"/D/GitHub/PyQt_Form/LabelImg/UI_Convert/paramsCv.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/colorDialog.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/utils.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/constants.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/myCameraDlg.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/canvas.py",
+		"/D/GitHub/PyQt_Form/LabelImg/label.sublime-project",
+		"/D/GitHub/PyQt_Form/LabelImg/labelImg.sublime-project",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/labelDialog.py",
+		"/D/PYTHON3.6_PROJECT/youngno_24_2/vision.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/myCanvas.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/toolBar.py",
+		"/D/GitHub/PyQt_Form/LabelImg/UI_Convert/paramsCv_ui.py",
+		"/D/GitHub/PyQt_Form/LabelImg/UI_Convert/main.py",
+		"/D/PYTHON3.6_PROJECT/labelImg-master/labelImg.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/paramsCv.py",
+		"/D/PYTHON3.6_PROJECT/Triple _FirmVers_0901/main.py",
+		"/D/PYTHON3.6_PROJECT/Triple _FirmVers_0901/teachdlg.py",
+		"/D/GitHub/PyQt_Form/LabelImg/libs/hashableQListWidgetItem.py",
+		"/C/Users/Nam/AppData/Roaming/Sublime Text 3/Packages/Python/Completion Rules.tmPreferences",
+		"/D/PYTHON3.6_PROJECT/labelImg-master/libs/toolBar.py",
+		"/D/PYTHON3.6_PROJECT/labelImg-master/libs/canvas.py",
+		"/D/PYTHON3.6_PROJECT/labelImg-master/libs/labelDialog.py",
+		"/D/PYTHON3.6_PROJECT/test/test.py",
+		"/D/GitHub/python-git/opencv_tkinter/libs/myCameraDlg.py",
+		"/D/GitHub/python-git/opencv_tkinter/main.py",
+		"/D/GitHub/python-git/opencv_tkinter/myGui.py",
+		"/D/PYTHON3.6_PROJECT/test/libs/myCameraDlg.py",
+		"/D/PYTHON3.6_PROJECT/test/debug.py",
+		"/D/PYTHON3.6_PROJECT/test/myCameraDlg.py",
+		"/D/GitHub/python-git/opencv_tkinter/libs/myCamera.py",
+		"/D/GitHub/python-git/opencv_tkinter/libs/myCanvas.py",
+		"/D/GitHub/PyQt_Form/MultiDlg/main.py",
+		"/D/GitHub/PyQt_Form/MultiDlg/autodlg.py",
+		"/D/GitHub/PyQt_Form/MultiDlg/ui_autodlg.py",
+		"/D/GitHub/PyQt_Form/MultiDlg/helloworld.py",
+		"/D/GitHub/PyQt_Form/MultiDlg/teachdlg.py",
+		"/D/GitHub/PyQt_Form/MultiDlg/update_GUI.py",
+		"/D/PYTHON3.6_PROJECT/Tape_PBA_204/helloworld.py",
+		"/D/GitHub/PyQt_Form/Drawing/main.py",
+		"/D/GitHub/PyQt_Form/Drawing/myForm.py",
+		"/D/GitHub/PyQt_Form/Drawing/libs/utils.py",
+		"/D/GitHub/PyQt_Form/Drawing/updateUI.py",
+		"/D/GitHub/PyQt_Form/Drawing/ui_myForm.py",
+		"/D/GitHub/PyQt_Form/Drawing/updateUI.bat",
+		"/D/PYTHON3.6_PROJECT/pyqt_form - Copy/dialog.py",
+		"/C/Users/Nam/Downloads/ARGender.ipynb",
+		"/D/PYTHON3.6_PROJECT/pyqt_form/ui_autodlg.py",
+		"/D/PYTHON3.6_PROJECT/labelImg-master/form.py",
+		"/D/libPytorch/libtorch/build-version",
+		"/D/PYTHON3.6_PROJECT/pyqt_form/autodlg.py",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/pytesseract/pytesseract.py",
+		"/C/Program Files/Python35/Lib/site-packages/tensorflow/__init__.py",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/mnist/loader.py",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/pyserial/serial/__init__.py",
+		"/D/PYTHON3.6_PROJECT/SIFT.py",
+		"/D/PDF/Machine Learning cơ bản.pdf",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/cv2/data/__init__.py",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/cv2/__init__.py",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/mnist/__init__.py",
+		"/D/PYTHON3.6_PROJECT/openCam.py",
+		"/D/PYTHON3.6_PROJECT/opencv.py",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/pyzbar/pyzbar.py",
+		"/D/PYTHON3.6_PROJECT/checkBar/check.py",
+		"/D/PYTHON3.6_PROJECT/data/barcode.py",
+		"/C/Users/Nam/Downloads/pyzbar-master/pyzbar-master/bounding_box_and_polygon.py",
+		"/C/Users/Nam/Downloads/zbar-0.10/zbar-0.10/test/test_zbar.py",
+		"/D/PYTHON_PROJECT/OpenCam/openCam.py",
+		"/D/PYTHON3.6_PROJECT/test.py",
+		"/C/Users/Nam/Pictures/ORC_Test/Eng.jpg",
+		"/C/Program Files (x86)/Python36-32/Lib/site-packages/pyserial/examples/at_protocol.py",
+		"/C/Users/Nam/source/repos/MFCApplication1/MFCApplication1/multiMatplotlib.py",
+		"/D/PYTHON_PROJECT/tesseract-python/multiMatplotlib.py",
+		"/C/tensorflow_object/models/research/object_detection/builders/model_builder_test.py",
+		"/D/Py to Exe/auto-py-to-exe-master/run.py",
+		"/C/Program Files/Python36/Lib/site-packages/serial/serialwin32.py",
+		"/C/Program Files/Python36/Lib/site-packages/serial/__init__.py",
+		"/C/Program Files (x86)/Python36-32/Scripts/auto-py-to-exe-master/run.py",
+		"/D/PYTHON_SAMPLE/tesseract-python-master/pdf_example.py",
+		"/D/PYTHON_SAMPLE/tesseract-python-master/test.py",
+		"/D/PYTHON_PROJECT/tesseract-python/ocr.py",
+		"/C/Program Files (x86)/Python36-32/lib/subprocess.py",
+		"/D/PYTHON3.6_PROJECT/contour.py",
+		"/C/Python27/Lib/site-packages/pytesseract/pytesseract.py",
+		"/D/PYTHON3.6_PROJECT/knn_data.npz",
+		"/D/opencv-machine-learning-master/notebooks/03.01-Measuring-Model-Performance-with-Scoring-Functions.ipynb",
+		"/D/opencv-machine-learning-master/notebooks/00.01-Foreword-by-Ariel-Rokem.ipynb",
+		"/D/PYTHON_SAMPLE/YOLO_Object_Detection-master/YOLO Object Detection.ipynb",
+		"/D/PYTHON_PROJECT/SVM_Sub",
+		"/D/PYTHON_PROJECT/opencv.py",
+		"/C/Python34_QTgui/Lib/site-packages/sip.pyd",
+		"/C/Python34_QTgui/pythonQt.ui",
+		"/C/Python27/Lib/site-packages/matplotlib/__init__.pyc",
+		"/D/Python/CommentPython.py",
+		"/D/Python/HelloWorld.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Pool",
+			"cameraDlg",
+			"paramsCv",
+			"self.statusBar()",
+			"[%d,%d,%d,%d]",
+			"setShapeVisible",
+			"self.visible",
+			"openNextImg",
+			"lineColor",
+			"setStatusTip",
+			"self.scale",
+			"self.drawingRectColor",
+			"self.current",
+			"self.mImgList",
+			"self.autoSaving",
+			"openDirDialog",
+			"DEFAULT_LINE_COLOR",
+			"self.lineColor",
+			"colorDialog",
+			"ColorDialog",
+			"chooseColor1",
+			"self.colorDialog",
+			"self.colorDialog ",
+			"ColorDialog",
+			"self.colorDialog",
+			"self.zoomWidget",
+			"fileList",
+			"itemSelectionChanged",
+			"fileListRowChanged",
+			"popLabelListMenu",
+			"fileList",
+			"clearAll",
+			"labelList",
+			"QFileDialog",
+			"self.fileListWidget",
+			"fileListWidget",
+			"actions",
+			"deleteSelectedShape",
+			"createMode",
+			"toggleDrawMode",
+			"labelSelectionChanged",
+			"setEditMode",
+			"labelSelectionChanged",
+			"resetAllLines",
+			"advancedMode",
+			"toggleAdvancedMode",
+			"self._beginner",
+			"drawingPolygon",
+			"selectionChanged",
+			"drawingPolygon",
+			"labelSelectionChanged",
+			"_noSelectionSlot",
+			"labelItemChanged",
+			"labelSelectionChanged",
+			"self.dirty",
+			"self._beginner",
+			"self.beginner",
+			"self.beginner()",
+			"toggleDrawingSensitive",
+			":",
+			"self.actions",
+			"zoomActions",
+			"beginnerContext",
+			"addActions",
+			"useDefaultLabelCheckbox",
+			"self.dirty",
+			"self.image",
+			"self.actions",
+			"zoomActions",
+			"zoomWidget",
+			"ZoomWidget",
+			"zoomRequest",
+			"popLabelListMenu",
+			"editLabel",
+			"editButton",
+			"zoomRequest",
+			"self._noSelectionSlot",
+			"shapeSelectionChanged",
+			"selectionChanged",
+			"click and dr",
+			"self.itemsToShapes",
+			"self.currentItem",
+			"resetState",
+			"self.shapesToItems",
+			"self.displayLabelOption",
+			"self.actions.onShapesPresent",
+			"self.dock",
+			"labelListContainer",
+			"self.labelList",
+			"listLayout",
+			"scroll",
+			"scrollArea",
+			"self.canvas",
+			"layout",
+			"hVertex",
+			"menus",
+			"QMenu",
+			"self.menus",
+			"selectShapePoint",
+			"self.menus",
+			"self.hShape",
+			"self.actions",
+			"popLabelListMenu",
+			"labelList",
+			"popLabelListMenu",
+			"mouseRelease",
+			"popup",
+			"popupmenu",
+			"self.setLayout",
+			"self.labelDialog",
+			"text = self.labelDialog.popUp",
+			"reject",
+			"labelHist",
+			"labelDialog",
+			"popUp",
+			"self._beginner",
+			"current",
+			"statusBar",
+			"labelCoordinates",
+			"CURSOR_GRAB",
+			"CURSOR_MOVE",
+			"CURSOR_GRAB",
+			"toolTip",
+			"setStatusTip",
+			"CURSOR_GRAB",
+			"zoomRequest",
+			"repaint",
+			"setToolTip"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fileLog",
+			"=",
+			"self.pilImg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.755774165954,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "label.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"test_labelImg.py"
+			],
+			[
+				"toolbar",
+				"libs\\toolBar.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"55":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"64":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"65":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"70":
+				{
+					"group": 1,
+					"index": 3
+				},
+				"71":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"72":
+				{
+					"group": 1,
+					"index": 2
+				},
+				"73":
+				{
+					"group": 1,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
